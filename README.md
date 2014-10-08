@@ -3,7 +3,7 @@ python
 
 PinGwynn's python scripts
 
-convert-cidr.py - split some CIDR network to smoller networks with specified prefix
+convert-cidr.py - split some CIDR network to smaller networks with specified prefix
 
 example:
   
